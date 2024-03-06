@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my portfolio using Next.js**
 
-- {⚔} CSSBattle's Top 50's in [Global Leaderboards](https://cssbattle.dev/leaderboard/global)
+- {⚔} CSSBattle's Top 50's in [Global Leaderboards](https://cssbattle.dev/leaderboard/global){:target="_blank"}
 
 - 🌱 I’m currently learning **TypeScript, React Native, Vue.js, SvelteKit**
 
