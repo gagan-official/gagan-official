@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dyyvrp571/image/upload/v1726425775/gagandeep_intro_gif_1_1_ubsnap.gif)](https://res.cloudinary.com/dyyvrp571/image/upload/v1726425775/gagandeep_intro_gif_1_1_ubsnap.gif)
+[![MasterHead](https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)](https://res.cloudinary.com/dyyvrp571/image/upload/v1726425775/gagandeep_intro_gif_1_1_ubsnap.gif)
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagan-official" alt="gagan-official" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/dyyvrp571/image/upload/w_300/v1726425775/gagandeep_intro_gif_1_1_ubsnap.gif">
 
 - 🔭 I’m currently working on **my portfolio using Next.js**
 
